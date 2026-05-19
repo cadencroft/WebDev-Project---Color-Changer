@@ -1,1 +1,26 @@
+.titlesection{
+    text-align;
+    text-align: center;
+}
 
+.color-btn{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 100px 
+}
+
+.reset-btn{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px; 
+}
+
+
+.btn{
+    padding: 5px 10px;
+    font-size: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
