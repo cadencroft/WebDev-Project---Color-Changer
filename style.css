@@ -1,6 +1,7 @@
 .titlesection{
     text-align;
     text-align: center;
+    font-family: verdana;
 }
 
 .color-btn{
@@ -24,6 +25,7 @@
     font-weight: bold; 
     border: 2px solid black;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .red{
@@ -43,7 +45,7 @@
 }
 
 .blue{
-    background-color: rgb(72, 145, 255)
+    background-color: rgb(72, 145, 255);
 }
 
 .purple{
