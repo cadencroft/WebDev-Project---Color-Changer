@@ -16,5 +16,5 @@ document.querySelector(".blue").addEventListener("click", function(){
 document.querySelector(".purple").addEventListener("click", function(){
     document.body.style.backgroundColor="rgb(236, 116, 236)"});
 
-document.querySelector(".reset-btn").addEventListener("click", function(){
+document.querySelector(".reset").addEventListener("click", function(){
     document.body.style.backgroundColor="white"});
